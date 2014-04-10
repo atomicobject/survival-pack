@@ -12,6 +12,7 @@ It will produce an optimal set of survival items which:
 
 * are within the total weight restriction
 * maximize your chance of survival
+* The response will always be in JSON
 
 Requirements:
 
