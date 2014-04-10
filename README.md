@@ -20,6 +20,7 @@ Requirements:
 * include multiple high-level test cases to validate your solution (like the one included below)
 * provide instructions in a README for submitting a survival pack to the API
 * deploy it to [Heroku](https://id.heroku.com/login) or similar service
+* The code must be readily available on GitHub or similar service
 
 Input:
 
