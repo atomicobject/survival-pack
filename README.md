@@ -1,6 +1,6 @@
 You are a survior of zombie apocalypse. You are moving from town-to-town collecting the most valuable items necessary for survival. You have backpack that can only hold a certain amount of weight and it is your job is to choose the best set of items based on their weight and value.
 
-**Write a API in [Grape](https://github.com/intridea/grape)** with an API endpoint called <code>/v1/survival-pack</code>.
+**Write a API in [Grape](https://github.com/intridea/grape) with an API endpoint called** <code>/v1/survival-pack</code>.
 
 That API endpoint will be given the following data via a <code>POST</code> request:
 
