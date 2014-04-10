@@ -39,33 +39,33 @@ Input:
     seed       11    70
     blanket    32    30
     skewer     24    15
-    tranny     48    10
-    uma        73    40
-    grumpkin   42    70
-    dusty      43    75
-    grumpy     22    80
-    eddie       7    20
-    tory       18    12
-    sally       4    50
-    babe       30    10
+    dull-sword 48    10
+    oil        73    40
+    peanuts    42    70
+    almonds    43    75
+    wire       22    80
+    popcorn     7    20
+    rabbit     18    12
+    beans       4    50
+    laptop     30    10
 
 Result:
 
-    packed dolls:
+    best value:
 
     name    weight value
-    sally       4    50
-    eddie       7    20
-    grumpy     22    80
-    dusty      43    75
-    grumpkin   42    70
-    marc       11    70
-    randal     27    60
-    puppy      15    60
-    dorothy    50   160
-    candice   153   200
-    anthony    13    35
-    luke        9   150
+    beans       4    50
+    popcorn     7    20
+    wire       22    80
+    almonds    43    75
+    peanuts    42    70
+    seed       11    70
+    rope       27    60
+    knife      15    60
+    spam       50   160
+    water     153   200
+    tuna       13    35
+    ammo        9   150
 
 Hint:
 
