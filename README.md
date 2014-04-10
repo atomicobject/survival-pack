@@ -6,7 +6,7 @@ That API endpoint will be given the following data via a <code>POST</code> reque
 
 * a set of survival items with a name and unique weight and value combination
 * an overall weight restriction
-* The endpoint can accept either a text file _OR_ a JSON datastructure
+* The endpoint can accept either a text file _OR_ a JSON data structure
 
 It will produce an optimal set of survival items which:
 
